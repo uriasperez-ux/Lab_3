@@ -1,5 +1,7 @@
-import 'package:lab_3/lab_3.dart' as lab_3;
+import 'package:lab_3/and.dart';
+import 'package:lab_3/or.dart';
 
 void main(List<String> arguments) {
-  print('Hello world: ${lab_3.calculate()}!');
+  and();
+  or();
 }
